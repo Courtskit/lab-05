@@ -82,6 +82,7 @@ input, select, textarea {
 			color: #333;
 		}
 
+
 	h2 {
 		font-size: 2em;
 		letter-spacing: -1px;
@@ -199,7 +200,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: rgb(0, 255, 34);
+			background: rgb(245, 166, 245);
 		}
 
 			.image.avatar48 img {
@@ -296,7 +297,7 @@ input, select, textarea {
 		background: #fff;
 		background: rgba(255, 255, 255, 0.75);
 		width: 100%;
-		border-radius: 0.35em;
+		border-radius: 0.25em;
 		padding: 0.75em 1em 0.75em 1em;
 		box-shadow: inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.05);
 		border: solid 1px rgba(0, 0, 0, 0.15);
@@ -311,7 +312,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			box-shadow: 0 0 2px 1px #8ebebc;
+			box-shadow: 0 0 2px 1px #f391d5f3;
 			background: #fff;
 		}
 
@@ -597,7 +598,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a.active span:before {
-						color: #e27689;
+						color: #f391d5f3;
 					}
 
 /* Footer */
